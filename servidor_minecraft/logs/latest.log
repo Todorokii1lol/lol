@@ -3636,3 +3636,21 @@ SAVING ENABLED - BACKUP COMPLETE!
 [14Jan2025 05:27:06.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/17784, l='ServerLevel[world]', x=811.50, y=81.00, z=-326.50]
 [14Jan2025 05:27:23.125] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/17945, l='ServerLevel[world]', x=849.50, y=76.00, z=-331.50]
 [14Jan2025 05:27:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol is bleeding. Todorokii_lol was slain by juliaan_cfss
+[14Jan2025 05:28:03.008] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/17999, l='ServerLevel[world]', x=923.50, y=82.00, z=-303.50]
+[14Jan2025 05:28:22.410] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18000, l='ServerLevel[world]', x=868.50, y=77.00, z=-325.50]
+[14Jan2025 05:28:32.028] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18001, l='ServerLevel[world]', x=950.50, y=80.00, z=-256.50]
+[14Jan2025 05:28:36.538] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18011, l='ServerLevel[world]', x=889.50, y=83.00, z=-327.50]
+[14Jan2025 05:28:40.224] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18012, l='ServerLevel[world]', x=889.50, y=83.00, z=-325.50]
+[14Jan2025 05:28:53.239] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18013, l='ServerLevel[world]', x=888.50, y=83.00, z=-325.50]
+[14Jan2025 05:29:20.239] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18019, l='ServerLevel[world]', x=868.50, y=77.00, z=-326.50]
+[14Jan2025 05:31:37.107] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2178ms or 43 ticks
+[14Jan2025 05:32:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frionel_Fressi> silly billt
+[14Jan2025 05:32:51.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frionel_Fressi> silly billy hit single
+[14Jan2025 05:33:41.320] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18078, l='ServerLevel[world]', x=848.50, y=76.00, z=-329.50]
+[14Jan2025 05:36:31.119] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18163, l='ServerLevel[world]', x=889.50, y=83.00, z=-326.50]
+[14Jan2025 05:37:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi is bleeding. Frionel_Fressi blew up
+[14Jan2025 05:37:28.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi went up in flames
+[14Jan2025 05:37:30.026] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 05:37:30.056] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:37:50.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol has made the advancement [Diamonds!]
+[14Jan2025 05:38:03.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Teleported Frionel_Fressi to Todorokii_lol]

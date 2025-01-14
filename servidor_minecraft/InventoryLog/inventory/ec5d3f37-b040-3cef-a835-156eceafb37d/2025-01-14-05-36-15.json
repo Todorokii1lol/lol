@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:stone_sword\",tag:{Damage:21}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:iron_pickaxe\",tag:{Damage:85}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:18}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"minecraft:stone_shovel\",tag:{Damage:7}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"paraglider:paraglider\",tag:{}}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:1b,id:\"gobber2:gobber2_foo\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:1b,id:\"l2hostility:hostility_orb\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:9b,id:\"minecraft:bread\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:8b,id:\"minecraft:apple\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:40b,id:\"minecraft:gunpowder\"}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:45b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:5b,id:\"minecraft:cooked_beef\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:1b,id:\"pizzacraft:broccoli_seeds\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_boots\",tag:{Damage:42}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_leggings\",tag:{Damage:42}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_chestplate\",tag:{Damage:42}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_helmet\",tag:{Damage:42}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"minecraft:shield\",tag:{Damage:0}}"
+    }
+  ]
+}
