@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{Charged:0b,glide:0b,struck:0b}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:103}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:stone_shovel\",tag:{Damage:0}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"minecraft:stone_hoe\",tag:{Damage:0}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:10b,id:\"minecraft:torch\"}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:1b,id:\"minecraft:bone\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:35b,id:\"minecraft:bread\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{Charged:0b,glide:0b,struck:0b}}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:27b,id:\"minecraft:oak_log\"}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:21b,id:\"minecraft:coal\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:9b,id:\"minecraft:raw_iron\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:7b,id:\"minecraft:gold_nugget\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"l2hostility:hostility_guide\"}}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:3b,id:\"minecraft:arrow\"}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:3b,id:\"chococraft:gysahl_green\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:5b,id:\"minecraft:charcoal\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:64b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:1b,id:\"spelunkery:portal_fluid_bottle\",tag:{bool:0b}}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:13b,id:\"minecraft:emerald\"}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:13b,id:\"minecraft:iron_ingot\"}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:2b,id:\"minecraft:iron_nugget\"}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:1b,id:\"minecraft:carrot\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:18b,id:\"farmersdelight:rope\"}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:1b,id:\"l2hostility:hostility_orb\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:4b,id:\"minecraft:coal_block\"}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:4b,id:\"minecraft:oak_planks\"}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:5b,id:\"minecraft:lapis_lazuli\"}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:6b,id:\"minecraft:string\"}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"waystones:waystone\"}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:5b,id:\"minecraft:potato\"}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:filled_map\",tag:{Decorations:[{id:\"+\",rot:180.0d,type:26b,x:-423.0d,z:-151.0d}],display:{Name:\u0027{\"translate\":\"filled_map.buried_treasure\"}\u0027},map:2}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:1b,id:\"minecraft:red_bed\",tag:{}}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"farmersdelight:golden_knife\",tag:{Damage:0,Enchantments:[{id:\"tonsofenchants:midas_touch\",lvl:1s}]}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:0}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:1b,id:\"minecraft:golden_hoe\",tag:{Damage:0,Enchantments:[{id:\"majruszsenchantments:gold_fuelled\",lvl:1s}]}}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:leather_helmet\",tag:{Damage:16,Enchantments:[{id:\"more_enchantments:restoration\",lvl:1s}]}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{Charged:0b,glide:0b,struck:0b}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"minecraft:leather_leggings\",tag:{Damage:16,Enchantments:[{id:\"more_enchantments:steeliness\",lvl:4s}]}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{Charged:0b,glide:0b,struck:0b}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"minecraft:golden_helmet\",tag:{Damage:0,DefaultUnbreakable:0b,Enchantments:[{id:\"more_enchantments:indestructibility\",lvl:1s}],IndestructibilityApplied:1b,Unbreakable:1b}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"shieldexp:wooden_shield\",tag:{Damage:22}}"
+    }
+  ]
+}

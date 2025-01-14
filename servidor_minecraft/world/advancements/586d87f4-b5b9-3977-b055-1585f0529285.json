@@ -145,6 +145,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-14 07:04:39 +0000",
       "bread": "2025-01-14 06:22:08 +0000"
     },
     "done": false
@@ -378,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-14 07:01:53 +0000"
+    },
+    "done": true
+  },
   "l2hostility:hostility/root": {
     "criteria": {
       "0": "2025-01-14 06:41:49 +0000"
@@ -553,6 +560,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-14 06:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-14 06:40:04 +0000"
@@ -580,6 +593,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-14 06:40:04 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2025-01-14 06:58:17 +0000"
     },
     "done": true
   },

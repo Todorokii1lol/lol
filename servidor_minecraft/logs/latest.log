@@ -3269,3 +3269,58 @@ SAVING ENABLED - BACKUP COMPLETE!
 [14Jan2025 06:58:23.722] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [14Jan2025 06:58:23.723] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [14Jan2025 06:58:23.723] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Jan2025 06:58:51.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol has made the advancement [Diamonds!]
+[14Jan2025 06:59:30.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol is bleeding. Todorokii_lol fell from a high place
+[14Jan2025 07:01:24.312] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2407ms or 48 ticks
+[14Jan2025 07:01:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has completed the challenge [When the Stew is Sus]
+[14Jan2025 07:01:52.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol has made the advancement [Sweet Dreams]
+[14Jan2025 07:01:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss has made the advancement [Sweet Dreams]
+[14Jan2025 07:01:56.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Sweet Dreams]
+[14Jan2025 07:01:58.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Gamerule playersSleepingPercentage is now set to: 50]
+[14Jan2025 07:02:28.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi is bleeding. Frionel_Fressi was shot by Skeleton
+[14Jan2025 07:02:47.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi was shot by Skeleton
+[14Jan2025 07:02:49.353] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 07:03:04.606] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[14Jan2025 07:04:38.023] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6913, l='ServerLevel[world]', x=110.00, y=-500.00, z=-753.35, removed=DISCARDED]
+[14Jan2025 07:05:49.036] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2008ms or 40 ticks
+[14Jan2025 07:05:49.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.3017362807993891
+[14Jan2025 07:05:49.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.44220533983275345
+[14Jan2025 07:05:49.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.6176710515690047
+[14Jan2025 07:05:49.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.8665195280619855
+[14Jan2025 07:05:49.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 1.0886572585880003
+[14Jan2025 07:05:49.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 1.3377945078236735
+[14Jan2025 07:05:49.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 1.6275734941014548
+[14Jan2025 07:05:50.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 1.8974035317632456
+[14Jan2025 07:05:50.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.5768083121497511
+[14Jan2025 07:05:50.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.497047371991016
+[14Jan2025 07:05:50.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.8481170634672708
+[14Jan2025 07:05:50.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.4875960745482075
+[14Jan2025 07:05:50.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.8554065949302299
+[14Jan2025 07:05:50.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 1.2346741285098801
+[14Jan2025 07:05:50.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.4663956711611945
+[14Jan2025 07:05:51.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of juliaan_cfss) moved wrongly! 0.5041165058132151
+[14Jan2025 07:05:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss is bleeding. juliaan_cfss was slain by Ocean Creeper
+[14Jan2025 07:05:53.132] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/8953, l='ServerLevel[world]', x=-218.50, y=69.00, z=-656.50]
+[14Jan2025 07:05:53.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Todorokii_lol) moved wrongly! 0.31901309725600413
+[14Jan2025 07:05:53.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Todorokii_lol) moved wrongly! 0.32058499061878365
+[14Jan2025 07:05:53.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Todorokii_lol) moved wrongly! 0.459566187611415
+[14Jan2025 07:05:53.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Todorokii_lol) moved wrongly! 0.5805676358907021
+[14Jan2025 07:05:54.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Todorokii_lol) moved wrongly! 0.5144662783121561
+[14Jan2025 07:05:54.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Todorokii_lol) moved wrongly! 0.5144662783121561
+[14Jan2025 07:06:12.565] [Worker-Main-1/WARN] [ModernFix/]: The namespace infernalexp contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 07:06:35.888] [Worker-Main-3/WARN] [ModernFix/]: The namespace nova_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 07:06:40.000] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9434, l='ServerLevel[world]', x=-281.50, y=78.00, z=-676.50]
+[14Jan2025 07:07:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Iron Torch]
+[14Jan2025 07:07:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Hunt and Gather]
+[14Jan2025 07:07:21.530] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2050ms or 41 ticks
+[14Jan2025 07:07:27.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14Jan2025 07:07:36.602] [Worker-Main-3/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 07:07:37.425] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[14Jan2025 07:07:51.290] [Worker-Main-2/WARN] [ModernFix/]: The namespace subterrestrial contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 07:07:52.487] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2046ms or 40 ticks
+[14Jan2025 07:08:15.435] [Worker-Main-3/WARN] [ModernFix/]: The namespace awesomedungeonnether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 07:08:17.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14Jan2025 07:08:21.536] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/MaulerEntity$Type
+[14Jan2025 07:08:26.566] [Worker-Main-2/WARN] [ModernFix/]: The namespace ecologics contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 07:08:30.635] [Worker-Main-2/WARN] [ModernFix/]: The namespace graveyard contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 07:08:56.246] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2002ms or 40 ticks
