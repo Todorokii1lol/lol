@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_diamond": {
+    "criteria": {
+      "has_item": "2025-01-14 04:51:16 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2025-01-13 19:58:32 +0000"
@@ -191,9 +197,21 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/rough_diamond": {
+    "criteria": {
+      "item": "2025-01-14 04:51:16 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/emerald": {
     "criteria": {
       "has_item": "2025-01-14 04:36:37 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar": {
+    "criteria": {
+      "has_item": "2025-01-14 04:51:06 +0000"
     },
     "done": true
   },
@@ -239,6 +257,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_cinnabar_shard": {
+    "criteria": {
+      "has_item": "2025-01-14 04:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
@@ -254,6 +278,12 @@
   "spelunkery:recipes/raw_copper": {
     "criteria": {
       "has_item": "2025-01-13 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_magnetite_nugget": {
+    "criteria": {
+      "has_item": "2025-01-14 04:53:10 +0000"
     },
     "done": true
   },
@@ -278,6 +308,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2025-01-14 04:51:16 +0000"
     },
     "done": true
   },
@@ -329,6 +365,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-01-14 04:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
@@ -362,6 +404,12 @@
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:06:58 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2025-01-14 04:51:06 +0000"
     },
     "done": true
   },
