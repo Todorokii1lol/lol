@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"byg:lush_dirt\"}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:3b,id:\"minecraft:oak_sapling\"}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:crafting_table\"}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:1b,id:\"twigs:twig\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:2b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:14b,id:\"minecraft:oak_planks\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    }
+  ]
+}
