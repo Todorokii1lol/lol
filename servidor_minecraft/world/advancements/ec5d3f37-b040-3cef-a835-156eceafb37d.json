@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-01-14 05:18:24 +0000"
+    },
+    "done": true
+  },
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-01-14 04:30:17 +0000"
@@ -489,6 +495,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-14 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-01-14 05:23:23 +0000"
     },
     "done": true
   },

@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/coal": {
+    "criteria": {
+      "has_item": "2025-01-14 05:17:25 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-01-14 05:15:05 +0000"
@@ -28,6 +34,12 @@
       "log_spam_fixer": "2025-01-13 19:59:54 +0000"
     },
     "done": false
+  },
+  "evenmoreinstruments:recipes/saxophone": {
+    "criteria": {
+      "has_item": "2025-01-14 05:19:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
     "criteria": {
@@ -89,6 +101,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-14 05:19:09 +0000"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:coconino_meadow": "2025-01-13 19:59:54 +0000",
@@ -123,6 +141,12 @@
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:21:06 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-01-14 05:19:09 +0000"
     },
     "done": true
   },
@@ -264,6 +288,18 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-14 04:30:07 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-14 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2025-01-14 05:16:58 +0000"
     },
     "done": true
   },

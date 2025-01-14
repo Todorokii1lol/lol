@@ -165,6 +165,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-14 05:25:41 +0000"
+    },
+    "done": true
+  },
   "l2hostility:hostility/root": {
     "criteria": {
       "0": "2025-01-13 20:27:51 +0000"
@@ -439,6 +445,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-01-14 05:18:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "cold_desert": "2025-01-14 05:07:50 +0000"
@@ -567,7 +579,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-01-14 05:06:36 +0000"
+      "requirement": "2025-01-14 05:25:13 +0000"
     },
     "done": true
   },
