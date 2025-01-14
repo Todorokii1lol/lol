@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:stone_sword\",tag:{Damage:4}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:iron_pickaxe\",tag:{Damage:66}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:0}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"minecraft:string\"}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"paraglider:paraglider\",tag:{}}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:7b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:2b,id:\"gobber2:gobber2_gooey_beefstew\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:10b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:13b,id:\"minecraft:coal\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:3b,id:\"byg:lush_dirt\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:64b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:38b,id:\"minecraft:oak_planks\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:1b,id:\"minecraft:stone_shovel\",tag:{Damage:1}}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:7b,id:\"minecraft:cooked_beef\"}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:5b,id:\"gobber2:gobber2_goo\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:5b,id:\"gobber2:gobber2_gooey_bread\"}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:1b,id:\"gobber2:gobber2_gooey_beef\"}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:1b,id:\"minecraft:crafting_table\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:46b,id:\"minecraft:gunpowder\"}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:2b,id:\"byg:blueberries\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:1b,id:\"gobber2:gobber2_foo\"}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"l2hostility:hostility_guide\"}}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:1b,id:\"l2hostility:hostility_orb\"}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:13b,id:\"minecraft:raw_iron\"}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:0}}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:31}}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:golden_apple\"}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:8b,id:\"minecraft:apple\"}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_boots\",tag:{Damage:7}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_leggings\",tag:{Damage:7}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_chestplate\",tag:{Damage:7}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_helmet\",tag:{Damage:7}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    }
+  ]
+}

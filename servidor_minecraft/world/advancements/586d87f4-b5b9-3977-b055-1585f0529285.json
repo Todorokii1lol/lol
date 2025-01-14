@@ -128,6 +128,12 @@
     },
     "done": true
   },
+  "l2hostility:hostility/root": {
+    "criteria": {
+      "0": "2025-01-14 04:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-14 04:30:07 +0000"
@@ -248,6 +254,12 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-01-14 05:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:21:06 +0000"
@@ -277,6 +289,18 @@
       "WDA": "2025-01-13 19:59:53 +0000"
     },
     "done": true
+  },
+  "casinocraft:recipes/decorations/wool_white": {
+    "criteria": {
+      "has_wool": "2025-01-14 05:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-01-14 05:03:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
@@ -311,6 +335,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-01-13 20:16:59 +0000"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/patchouli": {
+    "criteria": {
+      "0": "2025-01-14 04:59:13 +0000"
     },
     "done": true
   },
@@ -442,7 +472,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-01-14 04:55:21 +0000"
+      "requirement": "2025-01-14 05:06:14 +0000"
     },
     "done": true
   },

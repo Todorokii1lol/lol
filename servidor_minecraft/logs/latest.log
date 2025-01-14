@@ -3461,3 +3461,37 @@ SAVING ENABLED - BACKUP COMPLETE!
 [14Jan2025 04:56:16.507] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
 [14Jan2025 04:56:22.302] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [14Jan2025 04:56:37.115] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2234ms or 44 ticks
+[14Jan2025 04:58:44.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7247, l='ServerLevel[world]', x=496.50, y=70.00, z=95.50]
+[14Jan2025 04:58:47.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Teleported Todorokii_lol to juliaan_cfss]
+[14Jan2025 04:58:47.723] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 04:59:13.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss has made the advancement [Intro to L2Hostility]
+[14Jan2025 04:59:13.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol is bleeding. Todorokii_lol was slain by Slime
+[14Jan2025 04:59:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol tried to swim in lava to escape Slime
+[14Jan2025 04:59:18.289] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2hostility/init/network/TraitEffects
+[14Jan2025 04:59:18.941] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 04:59:18.990] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 04:59:35.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Teleported Todorokii_lol to juliaan_cfss]
+[14Jan2025 04:59:54.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Monster Hunter]
+[14Jan2025 04:59:54.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Intro to L2Hostility]
+[14Jan2025 05:00:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss is bleeding. juliaan_cfss was slain by Slime
+[14Jan2025 05:00:25.925] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:00:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todorokii_lol> el slime sirve
+[14Jan2025 05:00:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todorokii_lol> juli
+[14Jan2025 05:00:39.050] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:00:41.851] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:01:17.643] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:02:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todorokii_lol> felicidades shiniji
+[14Jan2025 05:02:16.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frionel_Fressi> vamos por las viejas chavales
+[14Jan2025 05:04:02.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frionel_Fressi> segudme a las cariñosas
+[14Jan2025 05:04:05.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todorokii_lol> tiene una ladea
+[14Jan2025 05:04:08.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todorokii_lol> aldea
+[14Jan2025 05:05:23.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss is bleeding. juliaan_cfss was poked to death by a sweet berry bush
+[14Jan2025 05:05:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss was poked to death by a sweet berry bush
+[14Jan2025 05:06:00.342] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 05:06:00.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:06:40.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Diamonds!]
+[14Jan2025 05:07:09.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol has made the advancement [Gravedigger]
+[14Jan2025 05:07:15.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Sweet Dreams]
+[14Jan2025 05:07:15.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[14Jan2025 05:07:19.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol has made the advancement [Not Today, Thank You]
+[14Jan2025 05:07:24.038] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10815, l='ServerLevel[world]', x=887.50, y=83.00, z=-325.50]
