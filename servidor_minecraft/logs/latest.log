@@ -3654,3 +3654,45 @@ SAVING ENABLED - BACKUP COMPLETE!
 [14Jan2025 05:37:30.056] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
 [14Jan2025 05:37:50.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol has made the advancement [Diamonds!]
 [14Jan2025 05:38:03.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Teleported Frionel_Fressi to Todorokii_lol]
+[14Jan2025 05:41:34.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has completed the challenge [What a Nugget, Once Again!]
+[14Jan2025 05:41:44.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol is bleeding. Todorokii_lol was slain by Zombie
+[14Jan2025 05:41:49.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss has made the advancement [Monster Hunter]
+[14Jan2025 05:42:46.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zhuldyz'/17345, l='ServerLevel[world]', x=953.74, y=85.38, z=-206.26] died, message: 'Zhuldyz was slain by Frionel_Fressi'
+[14Jan2025 05:42:46.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zhuldyz'/17345, l='ServerLevel[world]', x=953.74, y=85.38, z=-206.26] died: Zhuldyz was slain by Frionel_Fressi
+[14Jan2025 05:42:56.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss has made the advancement [Gravedigger]
+[14Jan2025 05:43:12.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yerzhan'/9864, l='ServerLevel[world]', x=962.90, y=78.00, z=-119.40] died, message: 'Yerzhan was slain by Frionel_Fressi'
+[14Jan2025 05:43:12.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yerzhan'/9864, l='ServerLevel[world]', x=962.90, y=78.00, z=-119.40] died: Yerzhan was slain by Frionel_Fressi
+[14Jan2025 05:43:26.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1009, y=81, z=-136} BlockPos{x=1009, y=81, z=-135}
+[14Jan2025 05:43:32.154] [Worker-Main-2/WARN] [ModernFix/]: The namespace terralith contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 05:43:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol is bleeding. Todorokii_lol was slain by Spider
+[14Jan2025 05:43:37.277] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2413ms or 48 ticks
+[14Jan2025 05:43:39.483] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[14Jan2025 05:43:41.509] [pool-7-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[14Jan2025 05:43:54.882] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2717ms or 54 ticks
+[14Jan2025 05:43:54.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[14Jan2025 05:44:35.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol was slain by Spider
+[14Jan2025 05:44:36.905] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 05:44:36.944] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:44:42.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Teleported Todorokii_lol to juliaan_cfss]
+[14Jan2025 05:44:58.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss has made the advancement [Not Today, Thank You]
+[14Jan2025 05:45:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss has made the advancement [Source of Evil]
+[14Jan2025 05:46:04.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi has made the advancement [Pull the lever, Conk!]
+[14Jan2025 05:46:11.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliaan_cfss is bleeding. juliaan_cfss blew up
+[14Jan2025 05:46:11.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi is bleeding. Frionel_Fressi blew up
+[14Jan2025 05:46:11.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol is bleeding. Todorokii_lol blew up
+[14Jan2025 05:46:22.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol blew up
+[14Jan2025 05:46:24.102] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 05:46:24.132] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:46:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frionel_Fressi blew up
+[14Jan2025 05:46:26.535] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 05:46:26.567] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14, l='ServerLevel[world]', x=395.79, y=-500.00, z=-45.30, removed=DISCARDED]
+[14Jan2025 05:46:29.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Teleported Todorokii_lol to juliaan_cfss]
+[14Jan2025 05:46:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Todorokii_lol: Teleported Frionel_Fressi to Todorokii_lol]
+[14Jan2025 05:46:47.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todorokii_lol has made the advancement [An Extra Seedy Place]
+[14Jan2025 05:47:13.586] [Worker-Main-3/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 05:47:25.582] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [78, 1], pos: BlockPos{x=1263, y=-37, z=30}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[14Jan2025 05:47:25.582] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [78, 1], pos: BlockPos{x=1263, y=-37, z=31}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[14Jan2025 05:47:25.582] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [78, 2], pos: BlockPos{x=1263, y=-37, z=32}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[14Jan2025 05:47:25.583] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [78, 1], pos: BlockPos{x=1263, y=-34, z=28}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[14Jan2025 05:47:31.619] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2012ms or 40 ticks
+[14Jan2025 05:47:51.141] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks

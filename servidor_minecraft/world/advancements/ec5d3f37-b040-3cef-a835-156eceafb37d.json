@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "additionaladditions:obtain_chicken_nugget": {
+    "criteria": {
+      "obtain": "2025-01-14 05:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-14 04:30:07 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/conk_fungus": {
+    "criteria": {
+      "item": "2025-01-14 05:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-14 04:30:13 +0000"
@@ -278,12 +290,6 @@
   "nameless_trinkets:obtain/root": {
     "criteria": {
       "obtain": "2025-01-14 05:07:58 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-01-14 05:18:24 +0000"
     },
     "done": true
   },
@@ -563,6 +569,12 @@
   "l2hostility:hostility/patchouli": {
     "criteria": {
       "0": "2025-01-14 04:59:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-14 05:37:37 +0000"
     },
     "done": true
   },

@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:iron_sword\",tag:{Damage:30}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:iron_pickaxe\",tag:{Damage:44}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:stone_axe\",tag:{Damage:38}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:6b,id:\"minecraft:wheat_seeds\"}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"minecraft:green_bed\",tag:{}}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:12b,id:\"minecraft:bone\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:4b,id:\"croptopia:peach\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:4b,id:\"minecraft:oak_sapling\"}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:2b,id:\"minecraft:bread\"}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"l2hostility:hostility_guide\"}}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:1b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:5b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:23b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:34}}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:8b,id:\"hexerei:sage_seed\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:43b,id:\"minecraft:copper_ingot\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:11b,id:\"minecraft:coal\"}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:10b,id:\"minecraft:oak_log\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:1b,id:\"minecraft:mossy_stone_bricks\"}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:2b,id:\"pizzacraft:onion\"}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:16b,id:\"minecraft:dirt\"}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:5b,id:\"minecraft:mutton\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:9b,id:\"ecologics:coconut_planks\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:1b,id:\"minecraft:egg\"}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_boots\",tag:{Damage:76}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_leggings\",tag:{Damage:76}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_chestplate\",tag:{Damage:43}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_helmet\",tag:{Damage:37}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"minecraft:shield\",tag:{Damage:20}}"
+    }
+  ]
+}
