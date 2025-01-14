@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:stone_axe\",tag:{Damage:23}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"cyclic:emerald_pickaxe\",tag:{Damage:7}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:iron_sword\",tag:{Damage:38}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"cyclic:crafting_stick\",tag:{}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"minecraft:water_bucket\",tag:{}}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:15b,id:\"minecraft:oak_planks\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:17b,id:\"minecraft:bread\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:1b,id:\"minecraft:furnace\"}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:1b,id:\"minecraft:leather\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:4b,id:\"minecraft:gunpowder\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:2b,id:\"minecraft:beef\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:3b,id:\"minecraft:white_wool\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:4b,id:\"minecraft:raw_gold\"}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:2b,id:\"minecraft:gold_block\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:50b,id:\"minecraft:raw_iron\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:4b,id:\"spelunkery:rough_cinnabar\"}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:1b,id:\"l2hostility:hostility_orb\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:6b,id:\"minecraft:mutton\"}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:12b,id:\"minecraft:torch\"}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:2b,id:\"minecraft:crafting_table\"}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:8b,id:\"minecraft:bone\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:3b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:6b,id:\"spelunkery:rough_cinnabar_shard\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:6b,id:\"spelunkery:raw_magnetite_nugget\"}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:3b,id:\"spelunkery:rough_diamond\"}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:31b,id:\"minecraft:coal\"}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:1b,id:\"born_in_chaos_v1:fused_bone\"}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:10b,id:\"minecraft:slime_ball\"}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:campfire\"}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:yellow_bed\",tag:{}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:3b,id:\"spelunkery:rough_diamond_shard\"}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:4b,id:\"luckytntmod:deepslate_uranium_ore\"}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"argentinas_delight:cuernodetoro\"}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:64b,id:\"spelunkery:raw_iron_nugget\"}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"chalk:chalk_box\",tag:{Items:[{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}},{Count:1b,id:\"chalk:blue_chalk\",tag:{Damage:15}},{Count:1b,id:\"chalk:pink_chalk\",tag:{Damage:50}},{Count:1b,id:\"chalk:yellow_chalk\",tag:{Damage:0}},{Count:1b,id:\"minecraft:air\"},{Count:1b,id:\"minecraft:air\"},{Count:1b,id:\"minecraft:air\"},{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}},{Count:1b,id:\"minecraft:air\"}]}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_boots\",tag:{Damage:62}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_leggings\",tag:{Damage:62}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_chestplate\",tag:{Damage:62}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"minecraft:shield\",tag:{Damage:38}}"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:stone_sword\",tag:{Damage:0}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:iron_pickaxe\",tag:{Damage:99}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:60}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"minecraft:stone_shovel\",tag:{Damage:24}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"paraglider:paraglider\",tag:{}}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:1b,id:\"minecraft:crafting_table\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:0b,id:\"minecraft:air\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:12b,id:\"minecraft:bread\"}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:40b,id:\"minecraft:gunpowder\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:7b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:1b,id:\"chococraft:chocobo_feather\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:2b,id:\"byg:blueberries\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:20b,id:\"minecraft:coal\"}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:2b,id:\"minecraft:salmon\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:1b,id:\"l2hostility:hostility_orb\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:1b,id:\"gobber2:gobber2_foo\"}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:3b,id:\"minecraft:iron_ingot\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:2b,id:\"minecraft:diamond\"}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"minecraft:fishing_rod\",tag:{Damage:0}}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:1b,id:\"croptopia:corn\"}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:10b,id:\"minecraft:bone\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:1b,id:\"chococraft:chocobo_drumstick_raw\"}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:3b,id:\"minecraft:cod\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:44b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:8b,id:\"minecraft:string\"}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:8b,id:\"minecraft:apple\"}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:7b,id:\"minecraft:beef\"}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"minecraft:white_bed\"}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:6b,id:\"minecraft:leather\"}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:shield\",tag:{Damage:3}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:8b,id:\"minecraft:raw_iron\"}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:2b,id:\"minecraft:cooked_beef\"}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:4b,id:\"minecraft:spruce_planks\"}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:lantern\"}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_boots\",tag:{Damage:95}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_leggings\",tag:{Damage:95}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_chestplate\",tag:{Damage:95}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_helmet\",tag:{Damage:95}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    }
+  ]
+}
