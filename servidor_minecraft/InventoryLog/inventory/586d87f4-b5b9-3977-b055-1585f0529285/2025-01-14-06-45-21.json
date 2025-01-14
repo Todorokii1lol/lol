@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:iron_sword\",tag:{Damage:21}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:iron_pickaxe\",tag:{Damage:1}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:5}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:2b,id:\"minecraft:white_banner\",tag:{BlockEntityTag:{Patterns:[{Color:9,Pattern:\"mr\"},{Color:8,Pattern:\"bs\"},{Color:7,Pattern:\"cs\"},{Color:8,Pattern:\"bo\"},{Color:15,Pattern:\"ms\"},{Color:8,Pattern:\"hh\"},{Color:8,Pattern:\"mc\"},{Color:15,Pattern:\"bo\"}]},display:{Name:\u0027{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}\u0027}}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:5b,id:\"crittersandcompanions:silk\"}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:3b,id:\"minecraft:iron_ingot\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:1b,id:\"minecraft:anvil\"}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:1b,id:\"simplehats:carrotonstick\",tag:{}}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:9b,id:\"minecraft:gold_nugget\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"simple_enchantments:absolute\",lvl:1s}]}}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:1b,id:\"l2hostility:hostility_orb\"}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:1b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:64b,id:\"minecraft:fire_charge\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"l2hostility:hostility_guide\"}}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:9b,id:\"minecraft:iron_nugget\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:1b,id:\"minecraft:filled_map\",tag:{Decorations:[{id:\"+\",rot:180.0d,type:26b,x:7264.0d,z:832.0d}],display:{Name:\u0027{\"translate\":\"Jungle Explorer Map\"}\u0027},map:1}}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:1b,id:\"minecraft:amethyst_shard\"}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:5b,id:\"minecraft:emerald\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:8b,id:\"minecraft:experience_bottle\"}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:7b,id:\"minecraft:lapis_lazuli\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:5b,id:\"minecraft:gold_ingot\"}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:8b,id:\"minecraft:arrow\"}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:13b,id:\"ecologics:coconut_planks\"}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:1b,id:\"minecraft:golden_helmet\",tag:{Damage:0}}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:0}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"spelunkery:portal_fluid_bottle\",tag:{bool:0b}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:0}}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:5b,id:\"minecraft:flint\"}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"minecraft:golden_helmet\",tag:{Damage:14,Enchantments:[{id:\"majruszsenchantments:gold_fuelled\",lvl:1s}]}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:7b,id:\"minecraft:bread\"}"
+    }
+  ]
+}

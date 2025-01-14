@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:stone_sword\",tag:{Damage:0}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:stone_axe\",tag:{Damage:12}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:wooden_pickaxe\",tag:{Damage:49}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"minecraft:stone_shovel\",tag:{Damage:0}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"minecraft:stone_hoe\",tag:{Damage:0}}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:1b,id:\"minecraft:crafting_table\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:1b,id:\"minecraft:raw_iron\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:0b,id:\"minecraft:air\"}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:28b,id:\"minecraft:bread\"}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:1b,id:\"waystones:waystone\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:1b,id:\"l2hostility:hostility_orb\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"l2hostility:hostility_guide\"}}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:4b,id:\"minecraft:coal\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:19b,id:\"minecraft:oak_planks\"}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:35b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:2b,id:\"minecraft:rotten_flesh\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:4}}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:0b,id:\"minecraft:air\"}"
+    }
+  ]
+}

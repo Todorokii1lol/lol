@@ -4,9 +4,10 @@
   "__COMMENT3": "with the following name: cpm-server-default.json",
   "player_scaling": {
     "1e6f6339-85b8-3dd2-b358-f1f03427665a": {},
-    "586d87f4-b5b9-3977-b055-1585f0529285": {},
-    "ec5d3f37-b040-3cef-a835-156eceafb37d": {}
+    "ec5d3f37-b040-3cef-a835-156eceafb37d": {},
+    "586d87f4-b5b9-3977-b055-1585f0529285": {}
   },
+  "skins": {},
   "player_scaling_settings": {},
   "scaling_settings": {
     "projectile_dmg": {},
@@ -33,6 +34,5 @@
     "fall_damage": {},
     "entity": {},
     "height": {}
-  },
-  "skins": {}
+  }
 }

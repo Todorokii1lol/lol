@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:1}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"cyclic:emerald_pickaxe\",tag:{Damage:4}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:water_bucket\",tag:{}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:2b,id:\"minecraft:cooked_cod\"}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:1b,id:\"minecraft:gold_block\"}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:2b,id:\"minecraft:prismarine_crystals\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:1b,id:\"paraglider:spirit_orb\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:15b,id:\"ecologics:coconut_planks\"}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:1b,id:\"minecraft:potion\",tag:{Potion:\"minecraft:water_breathing\"}}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:2b,id:\"minecraft:crafting_table\"}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:4b,id:\"minecraft:feather\"}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:10b,id:\"irons_spellbooks:arcane_essence\"}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:10b,id:\"minecraft:gold_ingot\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:1b,id:\"minecraft:suspicious_stew\",tag:{Effects:[{EffectDuration:400,EffectId:19,\"forge:effect_id\":\"minecraft:poison\"}]}}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:1b,id:\"byg:biomepedia\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:1b,id:\"alexsmobs:animal_dictionary\",tag:{}}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:4b,id:\"minecraft:potato\"}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:24b,id:\"minecraft:rotten_flesh\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:7b,id:\"minecraft:gunpowder\"}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"ecologics:music_disc_coconut\"}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:17b,id:\"minecraft:oak_planks\"}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:13b,id:\"minecraft:iron_ingot\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"simplyswords:runic_grimoire\"}}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:4b,id:\"minecraft:cooked_salmon\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:19b,id:\"minecraft:paper\"}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"irons_spellbooks:iss_guide_book\"}}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:1b,id:\"mca:book_romance\"}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:2b,id:\"minecraft:sand\"}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:2b,id:\"minecraft:tnt\"}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:12b,id:\"minecraft:book\"}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:2b,id:\"minecraft:emerald_block\"}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:heart_of_the_sea\"}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:2b,id:\"ecologics:coconut_slice\"}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"cell:copper_armor_boots\",tag:{Damage:15}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:23b,id:\"minecraft:bread\"}"
+    }
+  ]
+}
