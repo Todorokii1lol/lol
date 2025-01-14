@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/gunpowder": {
+    "criteria": {
+      "has_item": "2025-01-14 04:38:12 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-01-13 19:58:34 +0000"
@@ -26,6 +32,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-01-13 20:27:51 +0000"
+    },
+    "done": true
+  },
+  "evenmoreinstruments:recipes/saxophone": {
+    "criteria": {
+      "has_item": "2025-01-14 04:32:46 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-01-14 04:32:06 +0000"
     },
     "done": true
   },
@@ -65,11 +83,23 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-14 04:32:46 +0000"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:coconino_meadow": "2025-01-13 19:58:34 +0000"
     },
     "done": false
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-14 04:32:06 +0000"
+    },
+    "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -86,6 +116,12 @@
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-01-14 04:32:46 +0000"
     },
     "done": true
   },
@@ -137,6 +173,12 @@
     },
     "done": true
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-14 04:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
@@ -146,6 +188,18 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-13 19:58:32 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2025-01-14 04:36:37 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-01-14 04:43:31 +0000"
     },
     "done": true
   },
@@ -188,6 +242,12 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-14 04:32:46 +0000"
     },
     "done": true
   },
@@ -251,9 +311,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-01-14 04:39:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-14 04:32:06 +0000"
     },
     "done": true
   },
@@ -299,6 +371,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-14 04:32:52 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold": {
+    "criteria": {
+      "has_item": "2025-01-14 04:38:07 +0000"
+    },
+    "done": true
+  },
   "hookah_mod:hookah_mod_advancement": {
     "criteria": {
       "hookah_mod_advancement": "2025-01-13 19:58:32 +0000"
@@ -335,9 +419,27 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-14 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-01-14 04:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-14 04:38:07 +0000"
     },
     "done": true
   },

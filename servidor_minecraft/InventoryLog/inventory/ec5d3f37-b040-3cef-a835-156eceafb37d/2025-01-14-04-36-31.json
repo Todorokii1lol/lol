@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "nbt": "{Count:1b,id:\"minecraft:stone_sword\",tag:{Damage:52}}"
+    },
+    {
+      "index": 1,
+      "nbt": "{Count:1b,id:\"minecraft:stone_axe\",tag:{Damage:13}}"
+    },
+    {
+      "index": 2,
+      "nbt": "{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:0}}"
+    },
+    {
+      "index": 3,
+      "nbt": "{Count:1b,id:\"minecraft:stone_shovel\",tag:{Damage:1}}"
+    },
+    {
+      "index": 4,
+      "nbt": "{Count:7b,id:\"minecraft:oak_planks\"}"
+    },
+    {
+      "index": 5,
+      "nbt": "{Count:5b,id:\"minecraft:clay_ball\"}"
+    },
+    {
+      "index": 6,
+      "nbt": "{Count:4b,id:\"hexerei:animal_fat\"}"
+    },
+    {
+      "index": 7,
+      "nbt": "{Count:2b,id:\"minecraft:mutton\"}"
+    },
+    {
+      "index": 8,
+      "nbt": "{Count:1b,id:\"minecraft:wooden_pickaxe\",tag:{Damage:22}}"
+    },
+    {
+      "index": 9,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"simplyswords:runic_grimoire\"}}"
+    },
+    {
+      "index": 10,
+      "nbt": "{Count:1b,id:\"alexsmobs:animal_dictionary\",tag:{}}"
+    },
+    {
+      "index": 11,
+      "nbt": "{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"irons_spellbooks:iss_guide_book\"}}"
+    },
+    {
+      "index": 12,
+      "nbt": "{Count:1b,id:\"byg:biomepedia\"}"
+    },
+    {
+      "index": 13,
+      "nbt": "{Count:3b,id:\"minecraft:stick\"}"
+    },
+    {
+      "index": 14,
+      "nbt": "{Count:12b,id:\"minecraft:cobblestone\"}"
+    },
+    {
+      "index": 15,
+      "nbt": "{Count:5b,id:\"byg:blueberries\"}"
+    },
+    {
+      "index": 16,
+      "nbt": "{Count:1b,id:\"hexerei:sage_seed\"}"
+    },
+    {
+      "index": 17,
+      "nbt": "{Count:1b,id:\"cavesanddepths:lichenfungusplaceable\"}"
+    },
+    {
+      "index": 18,
+      "nbt": "{Count:1b,id:\"minecraft:white_wool\"}"
+    },
+    {
+      "index": 19,
+      "nbt": "{Count:1b,id:\"minecraft:coal\"}"
+    },
+    {
+      "index": 20,
+      "nbt": "{Count:1b,id:\"spelunkery:portal_fluid_bottle\",tag:{bool:1b}}"
+    },
+    {
+      "index": 21,
+      "nbt": "{Count:4b,id:\"minecraft:leather\"}"
+    },
+    {
+      "index": 22,
+      "nbt": "{Count:2b,id:\"argentinas_delight:cuernodetoro\"}"
+    },
+    {
+      "index": 23,
+      "nbt": "{Count:1b,id:\"minecraft:wheat_seeds\"}"
+    },
+    {
+      "index": 24,
+      "nbt": "{Count:8b,id:\"minecraft:oak_log\"}"
+    },
+    {
+      "index": 25,
+      "nbt": "{Count:1b,id:\"minecraft:allium\"}"
+    },
+    {
+      "index": 26,
+      "nbt": "{Count:8b,id:\"minecraft:apple\"}"
+    },
+    {
+      "index": 27,
+      "nbt": "{Count:1b,id:\"pizzacraft:broccoli_seeds\"}"
+    },
+    {
+      "index": 28,
+      "nbt": "{Count:1b,id:\"mca:book_romance\"}"
+    },
+    {
+      "index": 29,
+      "nbt": "{Count:1b,id:\"minecraft:crafting_table\"}"
+    },
+    {
+      "index": 30,
+      "nbt": "{Count:1b,id:\"minecraft:golden_shovel\",tag:{Damage:0,Enchantments:[{id:\"more_enchantments:indestructibility\",lvl:1s}]}}"
+    },
+    {
+      "index": 31,
+      "nbt": "{Count:1b,id:\"minecraft:golden_shovel\",tag:{Damage:0,Enchantments:[{id:\"more_enchantments:range\",lvl:4s}]}}"
+    },
+    {
+      "index": 32,
+      "nbt": "{Count:12b,id:\"minecraft:beef\"}"
+    },
+    {
+      "index": 33,
+      "nbt": "{Count:1b,id:\"minecraft:golden_apple\"}"
+    },
+    {
+      "index": 34,
+      "nbt": "{Count:4b,id:\"minecraft:flint\"}"
+    },
+    {
+      "index": 35,
+      "nbt": "{Count:18b,id:\"minecraft:iron_nugget\"}"
+    },
+    {
+      "index": 100,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 101,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 102,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": 103,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    },
+    {
+      "index": -106,
+      "nbt": "{Count:1b,id:\"minecraft:air\",tag:{glide:0b,struck:0b}}"
+    }
+  ]
+}
