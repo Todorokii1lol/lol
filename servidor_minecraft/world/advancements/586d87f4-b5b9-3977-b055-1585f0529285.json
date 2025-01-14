@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-14 05:15:05 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-01-13 19:59:54 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-14 04:30:07 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-01-14 05:15:42 +0000"
     },
     "done": true
   },
@@ -84,6 +96,12 @@
     },
     "done": false
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-14 05:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-13 20:04:54 +0000"
@@ -112,7 +130,8 @@
     "criteria": {
       "minecraft:frozen_river": "2025-01-13 20:18:58 +0000",
       "minecraft:beach": "2025-01-13 20:02:53 +0000",
-      "minecraft:river": "2025-01-13 20:13:45 +0000"
+      "minecraft:river": "2025-01-13 20:13:45 +0000",
+      "minecraft:plains": "2025-01-14 05:07:09 +0000"
     },
     "done": false
   },
@@ -125,6 +144,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-14 05:08:24 +0000"
     },
     "done": true
   },
@@ -161,6 +186,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-13 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-14 05:15:42 +0000"
     },
     "done": true
   },
@@ -296,9 +327,17 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2025-01-14 05:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-01-14 05:03:53 +0000"
+      "cooked_mutton": "2025-01-14 05:03:53 +0000",
+      "bread": "2025-01-14 05:09:21 +0000",
+      "golden_apple": "2025-01-14 05:13:22 +0000"
     },
     "done": false
   },
@@ -317,6 +356,12 @@
   "genshinstrument:recipes/vintage_lyre": {
     "criteria": {
       "has_main": "2025-01-14 04:30:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-14 05:15:42 +0000"
     },
     "done": true
   },
@@ -341,6 +386,12 @@
   "l2hostility:hostility/patchouli": {
     "criteria": {
       "0": "2025-01-14 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-01-14 05:07:52 +0000"
     },
     "done": true
   },
@@ -398,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-14 05:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-13 20:05:45 +0000"
@@ -446,6 +503,24 @@
     },
     "done": true
   },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2025-01-14 05:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-14 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-01-14 05:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:21:06 +0000"
@@ -467,12 +542,6 @@
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-01-13 19:59:53 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-01-14 05:06:14 +0000"
     },
     "done": true
   },

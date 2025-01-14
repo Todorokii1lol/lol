@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2025-01-14 05:06:47 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-01-13 19:58:34 +0000"
@@ -97,7 +103,8 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
-      "byg:coconino_meadow": "2025-01-13 19:58:34 +0000"
+      "byg:coconino_meadow": "2025-01-13 19:58:34 +0000",
+      "byg:cardinal_tundra": "2025-01-14 05:07:43 +0000"
     },
     "done": false
   },
@@ -112,6 +119,13 @@
       "get_stone": "2025-01-13 20:21:37 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "cold_desert": "2025-01-14 05:07:50 +0000",
+      "coniferous_forest": "2025-01-14 05:16:33 +0000"
+    },
+    "done": false
   },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
@@ -134,7 +148,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-01-13 20:00:41 +0000",
-      "minecraft:river": "2025-01-14 05:04:54 +0000"
+      "minecraft:river": "2025-01-14 05:04:54 +0000",
+      "minecraft:plains": "2025-01-14 05:14:09 +0000"
     },
     "done": false
   },
@@ -198,15 +213,15 @@
     },
     "done": true
   },
-  "spelunkery:spelunkery/rough_diamond": {
-    "criteria": {
-      "item": "2025-01-14 04:51:16 +0000"
-    },
-    "done": true
-  },
   "spelunkery:recipes/emerald": {
     "criteria": {
       "has_item": "2025-01-14 04:36:37 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_diamond": {
+    "criteria": {
+      "item": "2025-01-14 04:51:16 +0000"
     },
     "done": true
   },
@@ -246,13 +261,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
     },
@@ -267,6 +282,12 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-14 05:07:19 +0000"
     },
     "done": true
   },
@@ -294,6 +315,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-01-14 05:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
@@ -303,6 +330,12 @@
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-13 20:20:56 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-01-14 05:13:47 +0000"
     },
     "done": true
   },
@@ -327,6 +360,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-13 20:27:51 +0000",
+      "minecraft:spider": "2025-01-14 05:06:41 +0000",
       "minecraft:slime": "2025-01-14 05:00:07 +0000",
       "minecraft:zombie": "2025-01-14 05:04:16 +0000"
     },
@@ -350,9 +384,22 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2025-01-14 05:14:10 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_white": {
+    "criteria": {
+      "has_wool": "2025-01-14 05:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-01-14 04:39:44 +0000"
+      "cooked_beef": "2025-01-14 04:39:44 +0000",
+      "apple": "2025-01-14 05:13:14 +0000"
     },
     "done": false
   },
@@ -389,6 +436,12 @@
   "l2hostility:hostility/patchouli": {
     "criteria": {
       "0": "2025-01-13 20:27:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2025-01-14 05:07:50 +0000"
     },
     "done": true
   },
@@ -470,15 +523,15 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-14 04:32:06 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-01-14 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-14 04:32:06 +0000"
     },
     "done": true
   },
@@ -500,11 +553,11 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "evenmoreinstruments:recipes/trombone": {
     "criteria": {
-      "requirement": "2025-01-14 05:06:36 +0000"
+      "has_item": "2025-01-14 05:15:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "beautify:progression/root": {
     "criteria": {
